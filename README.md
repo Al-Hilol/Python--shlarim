@@ -1,2 +1,2 @@
 # Python-ishlarim
-Assalomu alaykum.Bu faylda python uchun ajoyib namunalrni ko'rishingiz mumkin!
+Assalomu alaykum.Bu faylda Python uchun ajoyib namunalarni ko'rishingiz mumkin!
